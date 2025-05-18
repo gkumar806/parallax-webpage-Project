@@ -64,13 +64,13 @@ section{
 }
 
 .bg1{
-   background-image: url("biking.jpg");
+   background-image: url("images/biking.jpg");
 }
 .bg2{
-   background-image: url("gliding.webp");
+   background-image: url("images/gliding.webp");
 }
 .bg3{
-   background-image: url("surfing.jpg");
+   background-image: url("images/surfing.jpg");
 }
 .bg{
    position:relative;
